@@ -1,6 +1,3 @@
-<p align="center">
-<img width="420" height="800" alt="Screenshot_20260608_145754" src="https://github.com/user-attachments/assets/6dbedbec-51b5-4f60-a5f1-20390aac4330"/>
-</p>
 # MemeFeed 🚀
 
 A sleek, infinite-scrolling Android application that delivers a continuous feed of the best memes directly from Reddit. Built natively for Android using Java and modern MVVM architecture.
@@ -28,3 +25,6 @@ Powered by the open-source [Meme API](https://github.com/D3vd/Meme_Api) which sc
 2. Open the project in **Android Studio**.
 3. Let Gradle sync and build the project.
 4. Hit the Play button to run it on your emulator or physical Android device. No API key required!
+<p align="center">
+<img width="420" height="800" alt="Screenshot_20260608_145754" src="https://github.com/user-attachments/assets/6dbedbec-51b5-4f60-a5f1-20390aac4330"/>
+</p>
